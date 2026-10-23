@@ -1,0 +1,28 @@
+{
+    "destinos": [
+        {
+            "ciudad": "Quito",
+            "pais": "Ecuador",
+            "nombre": "Centro-historico",
+            "precio": 300
+        },
+        {
+            "ciudad": "Madrid",
+            "pais": "España",
+            "nombre": "Museo",
+            "precio": 700
+        },
+        {
+            "ciudad": "Roma",
+            "pais": "Italia",
+            "nombre": "Colise-Romano",
+            "precio": 400
+        },
+        {
+            "ciudad": "Cusco",
+            "pais": "Peru",
+            "nombre": "Machu Pichu",
+            "precio": 200
+        }
+    ]
+}
